@@ -222,14 +222,6 @@ cd ..
 
 NOTE: This pipeline will fail if you don't [disable the "Fixable at least Important"](docs/disable_policy_enforcement.md) policy enforcement behaviour of ACS. This is expected to demonstrate the failure when a violation of the system policy occurs.
 
-## Quick Video with the Demo
-
-- [Option I - Complete CICD End2End process (Success)](https://youtu.be/uA7nUYchY5Q)
-
-- [Option II - Failure CICD pipeline due to the ACS violation policy](https://youtu.be/jTRImofd6wQ?t=380)
-
-- [Openshift Coffee Break - ACS for Kubernetes - DevSecOps Way](https://youtu.be/43Mr30mXq0I?t=1955)
-
 ## Promote Pipeline and Triggers
 
 - [Promote Pipeline](docs/promote.md)
@@ -239,6 +231,4 @@ NOTE: This pipeline will fail if you don't [disable the "Fixable at least Import
 
 - [Check the Tshoot section](docs/tshoot.md)
 
-# Credits
 
-Big thanks for the [contributors](https://github.com/rcarrata/devsecops-demo/graphs/contributors) and reviews that helped so much in this demo! We grow as we share!
